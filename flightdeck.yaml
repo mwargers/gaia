@@ -1,0 +1,4 @@
+default:
+    email: amo.testing@gmail.com
+    password: 1234
+    name: amo.testing
