@@ -1,4 +1,4 @@
 default:
-    email: amo.testing@gmail.com
-    password: "1234"
-    name: amo.testing
+    email: flight.deck.testing@gmail.com
+    password: "Password12345"
+    name: "FDTesting"
