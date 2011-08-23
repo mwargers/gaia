@@ -1,0 +1,4 @@
+default:
+    email: flight.deck.testing@gmail.com
+    password: "Password12345"
+    name: "FDTesting"
