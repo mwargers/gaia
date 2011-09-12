@@ -1,0 +1,9 @@
+default:
+    email: sumo.zac@mailinator.com
+    password: password12345
+    name: sumo.zac
+    
+admin:
+    email: sumo.zac.admin@mailinator.com
+    password: password12345
+    name: sumo.zac.admin
