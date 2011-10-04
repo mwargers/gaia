@@ -1,0 +1,14 @@
+user:
+    email: moz.mozillians.user@gmail.com
+    password: Password12345
+    name: Mozillians.User
+
+unvouched:
+    email: moz.mozillians.unvouched@gmail.com
+    password: Password12345
+    name: Mozillians.Unvouched
+
+unconfirmed:
+    email: moz.mozillians.unconfirmed@gmail.com
+    password: Password12345
+    name: Mozillians.Unconfirmed
