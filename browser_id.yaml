@@ -1,0 +1,4 @@
+default:
+    email: webqa.browserid@gmail.com
+    password: 12345678
+    google: webqa123
