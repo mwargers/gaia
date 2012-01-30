@@ -8,3 +8,7 @@ user.edit:
     password: 12345678
     name: Test
     gmail: webqa123
+
+paypal:
+    email:amo.te_1327961025_per@gmail.com
+    password:mozwebqa
