@@ -3,3 +3,8 @@ default:
     password: "Password12345"
     name: "WebQA Tester"
     gmail: "Password12345"
+
+default2:
+   email: a169155@rppkn.com 
+   password: "Password12345"
+   name: "WebQA Tester"
