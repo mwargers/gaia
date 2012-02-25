@@ -4,7 +4,7 @@ default:
     name: "WebQA Tester"
     gmail: "Password12345"
 
-default2:
+technical_debt:
    email: a169155@rppkn.com 
    password: "Password12345"
    name: "WebQA Tester"
