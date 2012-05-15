@@ -1,0 +1,6 @@
+default:
+    email: marketplace.selenium.test@gmail.com
+    password: mozwebqa
+    gmail_pass: mozwebqa
+    name: marketplace.test
+
