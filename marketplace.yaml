@@ -4,3 +4,11 @@ default:
     gmail_pass: mozwebqa
     name: marketplace.test
 
+paypal:
+    email: marketplace.selenium.test@gmail.com
+    password: mozwebqa
+
+sandbox:
+    email: market_1337171563_biz@gmail.com
+    password: 337171159
+
