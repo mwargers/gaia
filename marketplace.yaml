@@ -4,6 +4,30 @@ default:
     gmail_pass: mozwebqa
     name: marketplace.test
 
+buy_preapproval:
+    email: marketplace.buy.preapproval@gmail.com
+    password: mozwebqa
+    gmail_pass: mozwebqa
+    name: marketplace.test
+
+buy_no_preapproval:
+    email: marketplace.buy.no.preapproval@gmail.com
+    password: mozwebqa
+    gmail_pass: mozwebqa
+    name: marketplace.test
+
+add_preapproval:
+    email: marketplace.no.preapproval@gmail.com
+    password: mozwebqa
+    gmail_pass: mozwebqa
+    name: marketplace.test
+
+remove_preapproval:
+    email: marketplace.preapproval@gmail.com
+    password: mozwebqa
+    gmail_pass: mozwebqa
+    name: marketplace.test
+
 paypal:
     email: marketplace.selenium.test@gmail.com
     password: mozwebqa
