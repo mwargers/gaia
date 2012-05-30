@@ -32,7 +32,7 @@
 #   credentials['username']
 
 default:
-    username: Selenium
-    email: cdawson+selenium@mozilla.com
+    username: SeleniumTester
+    email: tcm-dev@mozilla.com
     password: mozilla5
-    name: Selenium
+    name: SeleniumTester
