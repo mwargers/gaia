@@ -1,9 +1,13 @@
 {
-    "marketplace_user": "",
-    "marketplace_password": "",
-    "remote_phone_number": "+16509030800",
+    "remote_phone_number": "",
     "this_phone_number": "+16502820975",
+
     "wifi": {
         "ssid": "Mozilla Guest"
+    },
+
+    "marketplace": {
+        "username": "marketplace.selenium.test@gmail.com",
+        "password": "mozwebqa"
     }
 }
