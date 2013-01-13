@@ -1,0 +1,13 @@
+{
+  "location": "Haxxor, MV",
+  "attached_to": "ateam-eideticker-2",
+  "remote_phone_number": "+18007072533",
+  "this_phone_number": "+16502158840",
+  "wifi": {
+    "ssid": "Mozilla Ateam"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  }
+}

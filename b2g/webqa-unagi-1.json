@@ -1,0 +1,13 @@
+{
+  "location": "Stephen Donner's desk, MV",
+  "attached_to": "TRY-MAC-SLAVE40",
+  "remote_phone_number": "+18007072533",
+  "this_phone_number": "+16502820975",
+  "wifi": {
+    "ssid": "Mozilla Guest"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  }
+}
