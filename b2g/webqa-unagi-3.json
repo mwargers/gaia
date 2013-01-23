@@ -3,6 +3,11 @@
   "attached_to": "QM-PXP-TRUNK01",
   "remote_phone_number": "+18007072533",
   "this_phone_number": "+16508610922",
+  "twilio": {
+      "account_sid": "",
+      "auth_token": "",
+      "phone_number": "+12195953076"
+  },
   "wifi": {
     "ssid": "Mozilla Guest"
   },

@@ -3,6 +3,11 @@
   "attached_to": "TRY-MAC-SLAVE40",
   "remote_phone_number": "+18007072533",
   "this_phone_number": "+16502820975",
+  "twilio": {
+      "account_sid": "",
+      "auth_token": "",
+      "phone_number": "+12195953076"
+  },
   "wifi": {
     "ssid": "Mozilla Guest"
   },
