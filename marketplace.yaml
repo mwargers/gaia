@@ -4,6 +4,10 @@ default:
     gmail_pass: mozwebqa
     name: marketplace.test
 
+api:
+    key: mkt:6254431:marketplace.selenium.test@gmail.com
+    secret: fb1f90b133140d3a5258000572e27d83e21dd366fab4c9fb359564cc9d3f6af665446990708d63d48e18dd6559c054823c3858a784dafc26e4891906f85a27b8
+
 buy_preapproval:
     email: marketplace.buy.preapproval@gmail.com
     password: mozwebqa
