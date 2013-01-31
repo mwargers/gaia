@@ -1,0 +1,18 @@
+{
+  "location": "Stephen Donner's desk, MV",
+  "attached_to": "UNAGI-4",
+  "remote_phone_number": "+18007072533",
+  "this_phone_number": "+16508610989",
+  "twilio": {
+      "account_sid": "",
+      "auth_token": "",
+      "phone_number": "+12195953076"
+  },
+  "wifi": {
+    "ssid": "Mozilla Guest"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  }
+}
