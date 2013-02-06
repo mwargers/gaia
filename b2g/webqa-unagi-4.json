@@ -3,6 +3,7 @@
   "attached_to": "UNAGI-4",
   "remote_phone_number": "+18007072533",
   "this_phone_number": "+16508610989",
+  "IMEI" : "864899012582409",
   "twilio": {
       "account_sid": "",
       "auth_token": "",
