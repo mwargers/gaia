@@ -3,7 +3,7 @@
   "attached_to": "ateam-eideticker-2",
   "remote_phone_number": "+18007072533",
   "this_phone_number": "+16502158840",
-  "IMEI" : "864899012601548",
+  "imei" : "864899012601548",
   "twilio": {
       "account_sid": "",
       "auth_token": "",
