@@ -10,7 +10,9 @@
       "phone_number": "+12195953076"
   },
   "wifi": {
-    "ssid": "Mozilla Guest"
+    "ssid": "Mozilla Mobile",
+    "keyManagement" : "WPA-PSK",
+    "psk": "im987tuszyp4v"
   },
   "marketplace": {
     "username": "marketplace.selenium.test@gmail.com",
