@@ -1,0 +1,19 @@
+{
+  "location": "HAXXOR, MV",
+  "attached_to": "UNAGI-5",
+  "remote_phone_number": "+18007072533",
+  "this_phone_number": "",
+  "imei" : "864899012586038",
+  "twilio": {
+      "account_sid": "",
+      "auth_token": "",
+      "phone_number": "+12195953076"
+  },
+  "wifi": {
+    "ssid": "Mozilla Ateam"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  }
+}
