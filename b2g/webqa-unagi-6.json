@@ -1,9 +1,9 @@
 {
-  "location": "HAXXOR, MV",
+  "location": "Stephen's Desk, MV",
   "attached_to": "UNAGI-6",
   "remote_phone_number": "+18007072533",
   "this_phone_number": "+16504402457",
-  "imei" : " 864899012581831",
+  "imei" : "864899012581831",
   "wifi": {
     "ssid": "Mozilla Guest"
   },
