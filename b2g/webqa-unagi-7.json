@@ -1,0 +1,14 @@
+{
+  "location": "Stephen's Desk, MV",
+  "attached_to": "UNAGI-7",
+  "remote_phone_number": "+18007072533",
+  "this_phone_number": "+16504402673",
+  "imei" : "864899012650883",
+  "wifi": {
+    "ssid": "Mozilla Guest"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  }
+}
