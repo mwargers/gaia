@@ -36,3 +36,4 @@ default:
     email: tcm-dev@mozilla.com
     password: mozilla5
     name: SeleniumTester
+    api_key: e57e6c8c-f0fd-40a4-ae89-0f31b173b0c4
