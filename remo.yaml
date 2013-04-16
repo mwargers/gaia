@@ -1,0 +1,4 @@
+default:
+    email: moz.mozillians.user@gmail.com
+    password: Password12345
+    name: Mozillians.User
