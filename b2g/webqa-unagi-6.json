@@ -1,4 +1,6 @@
 {
+  "acknowledged_risks": true,
+  "skip_warning": true,
   "location": "Stephen's Desk, MV",
   "attached_to": "UNAGI-6",
   "mac_address": "48:28:2f:f9:b8:9a",

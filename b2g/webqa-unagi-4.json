@@ -1,4 +1,6 @@
 {
+  "acknowledged_risks": true,
+  "skip_warning": true,
   "location": "Stephen Donner's desk, MV",
   "attached_to": "UNAGI-4",
   "mac_address": "48:28:2f:f9:b8:d3",
