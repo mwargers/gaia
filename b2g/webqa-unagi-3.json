@@ -15,5 +15,12 @@
   "marketplace": {
     "username": "marketplace.selenium.test@gmail.com",
     "password": "mozwebqa"
+  },
+  "email": {
+    "gmail": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "mozwebqa"
+    }
   }
 }
