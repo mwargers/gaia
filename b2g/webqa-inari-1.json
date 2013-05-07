@@ -1,0 +1,24 @@
+{
+  "acknowledged_risks": true,
+  "skip_warning": true,
+  "location": "Stephen Donner's desk, MV",
+  "attached_to": "TRY-MAC-SLAVE40",
+  "mac_address": "f8:df:a8:0b:35:dc",
+  "remote_phone_number": "+18007072533",
+  "this_phone_number": "+16502820975",
+  "imei" : "866302010093436",
+  "wifi": {
+    "ssid": "Mozilla Guest"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  },
+  "email": {
+    "gmail": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "mozwebqa"
+    }
+  }
+}
