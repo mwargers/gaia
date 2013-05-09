@@ -5,7 +5,12 @@
   "attached_to": "QM-PXP-TRUNK01",
   "mac_address": "48:28:2f:f9:c0:4d",
   "remote_phone_number": "+18007072533",
-  "this_phone_number": "+16508610881",
+  "carrier":{
+    "phone_number": "+16508610881",
+    "country": "United States",
+    "network": "T-Mobile"
+  },
+  "this_phone_number": "",
   "imei" : "864899012601548",
   "wifi": {
     "ssid": "Mozilla Mobile",
