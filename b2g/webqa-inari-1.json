@@ -5,7 +5,11 @@
   "attached_to": "TRY-MAC-SLAVE40",
   "mac_address": "f8:df:a8:0b:35:dc",
   "remote_phone_number": "+18007072533",
-  "this_phone_number": "+16502820975",
+  "carrier":{
+    "phone_number": "+16502820975",
+    "country": "United States",
+    "network": "AT&T"
+  },
   "imei" : "866302010093436",
   "wifi": {
     "ssid": "Mozilla Guest"

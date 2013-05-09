@@ -5,7 +5,11 @@
   "attached_to": "UNAGI-6",
   "mac_address": "48:28:2f:f9:b8:9a",
   "remote_phone_number": "+18007072533",
-  "this_phone_number": "+16504402457",
+  "carrier":{
+    "phone_number": "+16504402457",
+    "country": "United States",
+    "network": "T-Mobile"
+  },
   "imei" : "864899012581831",
   "wifi": {
     "ssid": "Mozilla Guest"
