@@ -1,0 +1,30 @@
+{
+  "acknowledged_risks": true,
+  "skip_warning": true,
+  "location": "Stephen Donner's desk, MV",
+  "attached_to": "UNAGI-4",
+  "mac_address": "f8:df:a8:0b:35:b7",
+  "remote_phone_number": "+18007072533",
+  "carrier":{
+    "phone_number": "+16508610989",
+    "country": "United States",
+    "network": "T-Mobile"
+  },
+  "imei" : "866302010093063",
+  "wifi": {
+    "ssid": "Mozilla Mobile",
+    "keyManagement" : "WPA-PSK",
+    "psk": "im987tuszyp4v"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  },
+  "email": {
+    "gmail": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "mozwebqa"
+    }
+  }
+}
