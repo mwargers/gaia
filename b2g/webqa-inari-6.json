@@ -1,0 +1,28 @@
+{
+  "acknowledged_risks": true,
+  "skip_warning": true,
+  "location": "Stephen's Desk, MV",
+  "attached_to": "UNAGI-6",
+  "mac_address": "f8:df:a8:0b:36:69",
+  "remote_phone_number": "+18007072533",
+  "carrier":{
+    "phone_number": "+16504402457",
+    "country": "United States",
+    "network": "T-Mobile"
+  },
+  "imei" : "8866302010094848",
+  "wifi": {
+    "ssid": "Mozilla Guest"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  },
+  "email": {
+    "gmail": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "mozwebqa"
+    }
+  }
+}
