@@ -13,9 +13,7 @@
   "this_phone_number": "",
   "imei" : "866302010094038",
   "wifi": {
-    "ssid": "Mozilla Mobile",
-    "keyManagement" : "WPA-PSK",
-    "psk": "im987tuszyp4v"
+    "ssid": "Mozilla Guest"
   },
   "marketplace": {
     "username": "marketplace.selenium.test@gmail.com",
