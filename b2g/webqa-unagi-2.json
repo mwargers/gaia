@@ -5,7 +5,11 @@
   "attached_to": "ateam-eideticker-2",
   "mac_address": "48:28:2f:f9:b8:d8",
   "remote_phone_number": "+18007072533",
-  "this_phone_number": "+16509468551",
+  "carrier":{
+    "phone_number": "+16504402457",
+    "country": "United States",
+    "network": "T-Mobile"
+  },
   "imei" : "864899012582458",
   "wifi": {
     "ssid": "Mozilla Ateam"

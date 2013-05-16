@@ -2,15 +2,15 @@
   "acknowledged_risks": true,
   "skip_warning": true,
   "location": "Stephen Donner's desk, MV",
-  "attached_to": "TRY-MAC-SLAVE40",
-  "mac_address": "f8:df:a8:0b:35:dc",
+  "attached_to": "UNAGI-4",
+  "mac_address": "f8:df:a8:0b:35:b7",
   "remote_phone_number": "+18007072533",
   "carrier":{
-    "phone_number": "+16502820975",
+    "phone_number": "+16508610989",
     "country": "United States",
-    "network": "AT&T"
+    "network": "T-Mobile"
   },
-  "imei" : "866302010093436",
+  "imei" : "866302010093063",
   "wifi": {
     "ssid": "Mozilla Guest"
   },
@@ -22,14 +22,7 @@
     "gmail": {
       "name": "FxOS Import",
       "email": "fxos.email.import@gmail.com",
-      "password": "mozwebqa",
-      "account_type": "IMAP+SMTP",
-      "imap_hostname": "imap.gmail.com",
-      "imap_name": "marketplace.selenium.test",
-      "imap_port": "993",
-      "smtp_hostname": "smtp.gmail.com",
-      "smtp_name": "marketplace.selenium.test",
-      "smtp_port": "465"
+      "password": "mozwebqa"
     }
   }
 }
