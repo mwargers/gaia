@@ -1,0 +1,39 @@
+{
+  "acknowledged_risks": true,
+  "skip_warning": true,
+  "location": "Stephen Donner's desk, MV",
+  "attached_to": "",
+  "mac_address": "f8:df:a8:0b:35:34",
+  "remote_phone_number": "+18007072533",
+  "carrier":{
+    "phone_number": "+16509467191",
+    "country": "United States",
+    "network": "AT&T"
+  },
+  "imei" : "866302010091752",
+  "wifi": {
+    "ssid": "Mozilla Guest"
+  },
+  "marketplace": {
+    "username": "marketplace.selenium.test@gmail.com",
+    "password": "mozwebqa"
+  },
+  "email": {
+    "gmail": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "mozwebqa"
+    },
+    "IMAP": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "mozwebqa",
+      "imap_hostname": "imap.gmail.com",
+      "imap_name": "fxos.email.import",
+      "imap_port": "993",
+      "smtp_hostname": "smtp.gmail.com",
+      "smtp_name": "fxos.email.import",
+      "smtp_port": "465"
+    }
+  }
+}
