@@ -32,8 +32,8 @@
 #   credentials['username']
 
 default:
-    username: SeleniumTester
     email: tcm-dev@mozilla.com
     password: mozilla5
     name: SeleniumTester
-    api_key: e57e6c8c-f0fd-40a4-ae89-0f31b173b0c4
+    api_user: webqa_api_user
+    api_key: a0c050d8-84c8-49f5-963f-97eae922bc48
