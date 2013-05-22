@@ -36,6 +36,13 @@
       "smtp_hostname": "smtp.gmail.com",
       "smtp_name": "fxos.email.import",
       "smtp_port": "465"
+    },
+    "ActiveSync":{
+      "name": "test account mozilla",
+      "email": "mozuser10@allizom.onmicrosoft.com",
+      "password": "Sparky2009",
+      "active_sync_hostname": "outlook.office365.com",
+      "active_sync_username": "mozuser10@allizom.onmicrosoft.com"
     }
   }
 }
