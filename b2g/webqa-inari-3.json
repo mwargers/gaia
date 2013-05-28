@@ -3,14 +3,14 @@
   "skip_warning": true,
   "location": "Stephen Donner's desk, MV",
   "attached_to": "",
-  "mac_address": "f8:df:a8:0b:36:16",
+  "mac_address": "F8:DF:A8:0B:35:5E",
   "remote_phone_number": "+18007072533",
   "carrier":{
     "phone_number": "+16509467191",
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : "866302010094012",
+  "imei" : "866302010092172",
   "wifi": {
     "ssid": "Mozilla Guest"
   },
