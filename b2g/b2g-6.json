@@ -1,8 +1,8 @@
 {
   "acknowledged_risks": true,
   "skip_warning": true,
-  "location": "Stephen's Desk, MV",
-  "attached_to": "UNAGI-7",
+  "location": "MV",
+  "attached_to": "b2g-6",
   "mac_address": "f4:6d:e2:b2:0a:56",
   "remote_phone_number": "+18007072533",
   "carrier":{
@@ -44,4 +44,3 @@
     }
   }
 }
-
