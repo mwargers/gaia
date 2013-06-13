@@ -1,8 +1,8 @@
 {
   "acknowledged_risks": true,
   "skip_warning": true,
-  "location": "Stephen Donner's desk, MV",
-  "attached_to": "",
+  "location": "MV",
+  "attached_to": "b2g-4",
   "mac_address": "f8:df:a8:0b:35:34",
   "remote_phone_number": "+18007072533",
   "carrier":{
