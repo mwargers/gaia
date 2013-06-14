@@ -2,7 +2,7 @@
   "acknowledged_risks": true,
   "skip_warning": true,
   "location": "HAXXOR, MV",
-  "attached_to": "UNAGI-5",
+  "attached_to": "b2g-8",
   "mac_address": "48:28:2f:f9:ba:3e",
   "remote_phone_number": "+18007072533",
   "this_phone_number": "+16509468554",
@@ -40,4 +40,3 @@
     }
   }
 }
-
