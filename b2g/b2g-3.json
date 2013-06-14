@@ -1,14 +1,18 @@
 {
   "acknowledged_risks": true,
   "skip_warning": true,
-  "location": "HAXXOR, MV",
-  "attached_to": "UNAGI-5",
-  "mac_address": "48:28:2f:f9:ba:3e",
+  "location": "MV",
+  "attached_to": "b2g-3",
+  "mac_address": "f8:df:a8:0b:35:b7",
   "remote_phone_number": "+18007072533",
-  "this_phone_number": "+16509468554",
-  "imei" : "864899012586038",
+  "carrier":{
+    "phone_number": "+16508610989",
+    "country": "United States",
+    "network": "T-Mobile"
+  },
+  "imei" : "866302010093063",
   "wifi": {
-    "ssid": "Mozilla Ateam"
+    "ssid": "Mozilla Guest"
   },
   "marketplace": {
     "username": "marketplace.selenium.test@gmail.com",
@@ -40,4 +44,3 @@
     }
   }
 }
-

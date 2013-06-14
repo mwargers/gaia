@@ -1,16 +1,17 @@
 {
   "acknowledged_risks": true,
   "skip_warning": true,
-  "location": "Stephen's Desk, MV",
-  "attached_to": "UNAGI-7",
-  "mac_address": "f4:6d:e2:b2:0a:56",
+  "location": "MV",
+  "attached_to": "b2g-2",
+  "mac_address": "f8:df:a8:0b:36:18",
   "remote_phone_number": "+18007072533",
   "carrier":{
-    "phone_number": "+16509468199",
+    "phone_number": "+16508610881",
     "country": "United States",
     "network": "T-Mobile"
   },
-  "imei" : "864899012650883",
+  "this_phone_number": "",
+  "imei" : "866302010094038",
   "wifi": {
     "ssid": "Mozilla Guest"
   },
@@ -44,4 +45,3 @@
     }
   }
 }
-

@@ -1,17 +1,16 @@
 {
   "acknowledged_risks": true,
   "skip_warning": true,
-  "location": "Stephen Donner's desk, MV",
-  "attached_to": "INARI-2",
-  "mac_address": "f8:df:a8:0b:36:18",
+  "location": "MV",
+  "attached_to": "b2g-6",
+  "mac_address": "f4:6d:e2:b2:0a:56",
   "remote_phone_number": "+18007072533",
   "carrier":{
-    "phone_number": "+16508610881",
+    "phone_number": "+16509468199",
     "country": "United States",
     "network": "T-Mobile"
   },
-  "this_phone_number": "",
-  "imei" : "866302010094038",
+  "imei" : "864899012650883",
   "wifi": {
     "ssid": "Mozilla Guest"
   },
