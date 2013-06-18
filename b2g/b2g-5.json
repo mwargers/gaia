@@ -14,10 +14,6 @@
   "wifi": {
     "ssid": "Mozilla Guest"
   },
-  "marketplace": {
-    "username": "marketplace.selenium.test@gmail.com",
-    "password": "mozwebqa"
-  },
   "email": {
     "gmail": {
       "name": "FxOS Import",
