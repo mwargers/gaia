@@ -2,15 +2,15 @@
   "acknowledged_risks": true,
   "skip_warning": true,
   "location": "MV",
-  "attached_to": "b2g-9",
+  "attached_to": "b2g-12",
   "mac_address": "F8:DF:A8:0B:35:5E",
   "remote_phone_number": "+18007072533",
   "carrier":{
-    "phone_number": "+16509468539",
+    "phone_number": "+16502820988",
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : "866302010092172",
+  "imei" : "864899013930813",
   "wifi": {
     "ssid": "Mozilla Guest"
   },
