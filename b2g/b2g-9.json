@@ -1,4 +1,9 @@
 {
+  "settings":{
+    "ril.data.apn": "wap.cingular",
+    "ril.data.user": "WAP@CINGULARGPRS.COM",
+    "ril.data.passwd": "CINGULAR1"
+  },
   "acknowledged_risks": true,
   "skip_warning": true,
   "location": "MV",
