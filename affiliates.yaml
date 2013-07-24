@@ -1,8 +1,7 @@
 default:
-    email: affiliates.webqa@gmail.com
-    password: mozwebqa
+    email: webqa.browserid@aol.com
+    password: Password123
     name: affiliates webqa
-    gmail: mozwebqa
 
 technical_debt:
    email: a169155@rppkn.com 
