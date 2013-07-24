@@ -32,8 +32,8 @@
 #   credentials['username']
 
 default:
-    email: moz.mozillians.user@gmail.com
-    password: Password12345
+    email: webqa.browserid@aol.com
+    password: Password123
     name: Mozillians.User
     api_user: webqa_api_user
     api_key: a0c050d8-84c8-49f5-963f-97eae922bc48
