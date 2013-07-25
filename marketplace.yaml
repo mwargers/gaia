@@ -1,12 +1,12 @@
 default:
-    email: marketplace.selenium.test@gmail.com
-    password: mozwebqa
-    gmail_pass: mozwebqa
-    name: marketplace.test
+    email: webqa.browserid@aol.com
+    password: Password123
+    gmail_pass: webqa123
+    name: webqabrowserid
 
 api:
-    key: mkt:6254431:marketplace.selenium.test@gmail.com:0
-    secret: 4a32e02d7a425b5823452e59e7103aeabf631a419c0f093650a80968d17bff09747f83a507555036b548066991839912ce971e085f68a0cb15c23e27c4b5da15
+    key: mkt:9916111:webqa.browserid@aol.com:1
+    secret: cc930d42f576f9709d5528a4869e583ee639e855c587d9b69fc05052e7aedb912ec691e4ca8df313c80fc144009e8392d632ce2426039ed641ccb492ebade0ea
 
 buy_preapproval:
     email: marketplace.buy.preapproval@gmail.com
