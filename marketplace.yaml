@@ -1,12 +1,12 @@
 default:
-    email: webqa.browserid@aol.com
-    password: Password123
-    gmail_pass: webqa123
-    name: webqabrowserid
+    email: moz.marketplace@aol.com
+    password: mozwebqa
+    aol_pass: mozwebqa
+    name: moz.marketplace
 
 api:
-    key: mkt:9916111:webqa.browserid@aol.com:1
-    secret: cc930d42f576f9709d5528a4869e583ee639e855c587d9b69fc05052e7aedb912ec691e4ca8df313c80fc144009e8392d632ce2426039ed641ccb492ebade0ea
+    key: mkt:9916867:moz.marketplace@aol.com:0
+    secret: 916e6ebac64c1db754acf685ede4a83454c928ec79d75aa4749a353df3b797a2fe650feee68108638c2dae8cc47410e9aa4525442e1cab880872bbc30cf95615
 
 buy_preapproval:
     email: marketplace.buy.preapproval@gmail.com
