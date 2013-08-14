@@ -1,9 +1,9 @@
 default:
-    email: moz.sumo.user@gmail.com
+    email: moz.sumo.user@aol.com
     password: Password12345
-    name: Sumo.User
+    name: Sumo_User
     
 admin:
-    email: moz.sumo.sudo@gmail.com
+    email: moz.sumo.sudo@aol.com
     password: Password12345
-    name: Sumo.Admin
+    name: Sumo_Admin
