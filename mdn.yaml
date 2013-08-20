@@ -1,4 +1,4 @@
 default:
-    email: webqa.browserid@aol.com
+    email: webqabrowserid@aol.com
     password: Password123
-    name: mozilla.gh
+    name: mozilla.qa
