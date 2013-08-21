@@ -1,14 +1,14 @@
 user:
-    email: webqa.browserid@aol.com
+    email: webqabrowserid@aol.com
     password: Password123
     name: Mozillians.User
 
 unvouched:
-    email: moz.webqatest@aol.com
+    email: unvouched@fakeemail.com
     password: Password123
     name: Mozillians.Unvouched
 
 unconfirmed:
-    email: moz.mozillians.unconfirmed@gmail.com
+    email: unconfirmed@fakeemail.com
     password: Password12345
     name: Mozillians.Unconfirmed
