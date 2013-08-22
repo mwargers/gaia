@@ -4,9 +4,13 @@ default:
     aol_pass: mozwebqa
     name: moz.marketplace
 
-api:
+api-dev:
     key: mkt:9916867:moz.marketplace@aol.com:0
     secret: 916e6ebac64c1db754acf685ede4a83454c928ec79d75aa4749a353df3b797a2fe650feee68108638c2dae8cc47410e9aa4525442e1cab880872bbc30cf95615
+
+api-stage:
+    key:    mkt:6762965:moz.marketplace@aol.com:0
+    secret: f362e2ef6f6836150d766f8c68c56ff02ef44c5526d2517e466f84dcec7cf93bbb5bf049d047d426e3ef6fbff7f1d1127a17a014e0a9bc52a483943e311e2169
 
 buy_preapproval:
     email: marketplace.buy.preapproval@gmail.com
