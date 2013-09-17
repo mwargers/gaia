@@ -1,9 +1,9 @@
 {
   "settings":{
     "ril.data.apnSettings": [[{
-      "apn": "wap.cingular",
-      "user": "WAP@CINGULARGPRS.COM",
-      "passwd": "CINGULAR1",
+      "apn": "epc.tmobile.com",
+      "user": "",
+      "passwd": "",
       "types": ["default","mms","supl"]
       }]]
   },
@@ -18,7 +18,7 @@
     "country": "United States",
     "network": "T-Mobile"
   },
-  "imei" : "864899012595690",
+  "imei" : "013498000485301",
   "wifi": {
     "ssid": "Mozilla Guest"
   },
