@@ -1,4 +1,12 @@
 {
+  "settings":{
+    "ril.data.apnSettings": [[{
+      "apn": "wap.cingular",
+      "user": "WAP@CINGULARGPRS.COM",
+      "passwd": "CINGULAR1",
+      "types": ["default","mms","supl"]
+      }]]
+  },
   "acknowledged_risks": true,
   "skip_warning": true,
   "location": "MV",
@@ -10,7 +18,6 @@
     "country": "United States",
     "network": "T-Mobile"
   },
-  "this_phone_number": "",
   "imei" : "864899012595690",
   "wifi": {
     "ssid": "Mozilla Guest"
