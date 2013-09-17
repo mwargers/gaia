@@ -3,12 +3,12 @@
   "skip_warning": true,
   "location": "MV",
   "attached_to": "b2g-6",
-  "mac_address": "f4:6d:e2:b2:0a:56",
+  "mac_address": "f8:df:a8:0b:36:69",
   "remote_phone_number": "+18007072533",
   "carrier":{
     "phone_number": "+16509468199",
     "country": "United States",
-    "network": "T-Mobile"
+    "network": "AT&T"
   },
   "imei" : "866302010094848",
   "wifi": {
