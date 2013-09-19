@@ -4,9 +4,9 @@ default:
     name: amo.testing
 
 user.edit:
-    email: webqa.browserid@gmail.com
+    email: webqabrowserid@gmail.com
     password: Password12345
-    name: Test
+    name: WebqaTest
     gmail: webqa123
 
 paypal:
