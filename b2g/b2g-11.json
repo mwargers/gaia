@@ -11,14 +11,14 @@
   "skip_warning": true,
   "location": "MV",
   "attached_to": "b2g-11",
-  "mac_address": "F8:DF:A8:0B:35:5E",
+  "mac_address": "",
   "remote_phone_number": "+18007072533",
   "carrier":{
     "phone_number": "+16502820972",
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : "864899013931126",
+  "imei" : "013498000490061",
   "wifi": {
     "ssid": "Mozilla Guest"
   },
