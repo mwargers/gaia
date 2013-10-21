@@ -1,14 +1,26 @@
 {
+  "settings":{
+    "ril.data.apnSettings": [[{
+      "apn": "wap.cingular",
+      "user": "WAP@CINGULARGPRS.COM",
+      "passwd": "CINGULAR1",
+      "types": ["default","mms","supl"]
+      }]]
+  },
   "acknowledged_risks": true,
   "skip_warning": true,
-  "location": "HAXXOR, MV",
+  "location": "MV",
   "attached_to": "b2g-8",
   "mac_address": "48:28:2f:f9:ba:3e",
   "remote_phone_number": "+18007072533",
-  "this_phone_number": "+16509468554",
+  "carrier":{
+    "phone_number": "+16509468554",
+    "country": "United States",
+    "network": "AT&T"
+  },
   "imei" : "013498000490194",
   "wifi": {
-    "ssid": "Mozilla Ateam"
+    "ssid": "Mozilla Guest"
   },
   "email": {
     "gmail": {
