@@ -14,6 +14,10 @@
   "wifi": {
     "ssid": "Mozilla Ateam"
   },
+  "settings": {
+    "time.timezone": "America/Los_Angeles",
+    "time.timezone.user-selected": "America/Los_Angeles"
+  },
   "email": {
     "gmail": {
       "name": "FxOS Import",
