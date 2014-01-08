@@ -1,11 +1,5 @@
 {
   "settings":{
-    "ril.data.apnSettings": [[{
-      "apn": "epc.tmobile.com",
-      "user": "",
-      "passwd": "",
-      "types": ["default","mms","supl"]
-      }]],
     "time.timezone": "America/Los_Angeles",
     "time.timezone.user-selected": "America/Los_Angeles"
   },

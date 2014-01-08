@@ -1,11 +1,5 @@
 {
   "settings":{
-    "ril.data.apnSettings": [[{
-      "apn": "wap.cingular",
-      "user": "WAP@CINGULARGPRS.COM",
-      "passwd": "CINGULAR1",
-      "types": ["default","mms","supl"]
-      }]],
     "time.timezone": "America/Los_Angeles",
     "time.timezone.user-selected": "America/Los_Angeles"
   },
