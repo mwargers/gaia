@@ -1,5 +1,6 @@
 {
   "settings":{
+    "ril.cellbroadcast.disabled": true,
     "time.timezone": "America/Los_Angeles",
     "time.timezone.user-selected": "America/Los_Angeles"
   },
