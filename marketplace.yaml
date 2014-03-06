@@ -9,8 +9,8 @@ api-dev:
     secret: fb1813144a2acb6dc29cec74e21f41452f1c0f663fd5beba86122def7a94407782db2242e7dba2c2fc927c907c86e2f34617e279deffe7fa0cfa3b1a8052b135
 
 api-stage:
-    key:    mkt:6762965:moz.marketplace@aol.com:0
-    secret: f362e2ef6f6836150d766f8c68c56ff02ef44c5526d2517e466f84dcec7cf93bbb5bf049d047d426e3ef6fbff7f1d1127a17a014e0a9bc52a483943e311e2169
+    key: mkt:10189072:moz.marketplace@aol.com:0
+    secret: 07662a3341337410656b8903f0f31de5dab6876a7773850e8db45241d0132b14b2b5c6ba14bc7e423b0241689314bffda12fc30bb51d72a000b3fcd4f379bf4f
 
 buy_preapproval:
     email: marketplace.buy.preapproval@gmail.com
