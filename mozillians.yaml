@@ -12,3 +12,12 @@ unconfirmed:
     email: unconfirmed@fakeemail.com
     password: Password12345
     name: Mozillians.Unconfirmed
+
+vouched_with_private_fields:
+    email:  e225136@drdrb.com
+    password: admintest
+    name: e225136
+
+api_user:
+    app_name: test_automation
+    api_key: 77fa427d3ae4056710f52d59d7c297ab8f9ce5d6
