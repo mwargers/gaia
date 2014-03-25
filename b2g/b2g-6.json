@@ -43,5 +43,10 @@
       "active_sync_hostname": "outlook.office365.com",
       "active_sync_username": "mozuser10@allizom.onmicrosoft.com"
     }
+  },
+    "plivo": {
+    "auth_id": "MANTQWY2QXMGEYOWM2NZ",
+    "auth_token": "MmI3YWU1ZTk4OGY1ODgxYTk5ODM3ZTEzNGQ5Njli",
+    "phone_number": "13852003227"
   }
 }
