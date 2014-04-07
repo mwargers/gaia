@@ -39,7 +39,7 @@
     "ActiveSync":{
       "name": "test account mozilla",
       "email": "mozuser10@allizom.onmicrosoft.com",
-      "password": "Sparky2014",
+      "password": "Sparky2013",
       "active_sync_hostname": "outlook.office365.com",
       "active_sync_username": "mozuser10@allizom.onmicrosoft.com"
     }
