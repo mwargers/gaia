@@ -44,9 +44,9 @@
       "active_sync_username": "mozuser10@allizom.onmicrosoft.com"
     }
   },
-    "plivo": {
-    "auth_id": "MANTQWY2QXMGEYOWM2NZ",
-    "auth_token": "MmI3YWU1ZTk4OGY1ODgxYTk5ODM3ZTEzNGQ5Njli",
-    "phone_number": "13852003227"
+  "plivo": {
+    "auth_id": "MAMJCXYZM4OWQ4NDM5MD",
+    "auth_token": "NDIyMTIwNGYzOTI1MGRmYzhjMjllMGY0ZDhjNDAw",
+    "phone_number": "14842125265"
   }
 }
