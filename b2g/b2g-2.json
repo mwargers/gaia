@@ -8,14 +8,14 @@
   "skip_warning": true,
   "location": "MV",
   "attached_to": "b2g-2",
-  "mac_address": "f8:df:a8:0b:36:18",
+  "mac_address": "24:0a:11:7e:58:6d",
   "remote_phone_number": "+18007072533",
   "carrier":{
     "phone_number": "+16508610881",
     "country": "United States",
     "network": "T-Mobile"
   },
-  "imei" : "013498000490160",
+  "imei" : ["864332020050870","864332020050888"],
   "wifi": {
     "ssid": "Mozilla Guest"
   },
