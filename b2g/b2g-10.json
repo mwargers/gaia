@@ -12,7 +12,7 @@
   },
   "imei" : "864899012668091",
   "wifi": {
-    "ssid": "Mozilla Guest"
+    "ssid": "ateam"
   },
   "settings": {
     "ril.cellbroadcast.disabled": true,
