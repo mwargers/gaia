@@ -38,10 +38,10 @@
     },
     "ActiveSync":{
       "name": "test account mozilla",
-      "email": "mozuser10@allizom.onmicrosoft.com",
-      "password": "Sparky2013",
+      "email": "mozuser6@allizom.onmicrosoft.com",
+      "password": "Superstar0692",
       "active_sync_hostname": "outlook.office365.com",
-      "active_sync_username": "mozuser10@allizom.onmicrosoft.com"
+      "active_sync_username": "mozuser6@allizom.onmicrosoft.com"
     }
   },
   "plivo": {
