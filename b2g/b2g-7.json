@@ -12,7 +12,7 @@
   },
   "imei" : "013498000389040",
   "wifi": {
-    "ssid": "ateam"
+    "ssid": "qalab"
   },
   "settings": {
     "ril.cellbroadcast.disabled": true,
