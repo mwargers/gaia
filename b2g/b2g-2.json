@@ -15,7 +15,7 @@
     "country": "United States",
     "network": "T-Mobile"
   },
-  "imei" : ["864332020050870","864332020050888"],
+  "imei" : "864332020050870",
   "wifi": {
     "ssid": "ateam"
   },
