@@ -8,14 +8,14 @@
   "skip_warning": true,
   "location": "MV",
   "attached_to": "b2g-9",
-  "mac_address": "e4:2d:02:38:d9:c8",
+  "mac_address": "24:0a:11:e2:20:f6",
   "remote_phone_number": "+18007072533",
   "carrier":{
     "phone_number": "+16509468539",
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : "013498000490087",
+  "imei" : ["864332929113090", "864332020113108"],
   "wifi": {
     "ssid": "ateam"
   },
