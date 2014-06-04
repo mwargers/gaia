@@ -10,7 +10,7 @@
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : ["864332020112977", "864332020112985"],
+  "imei" : "864332020112977",
   "wifi": {
     "ssid": "ateam"
   },
