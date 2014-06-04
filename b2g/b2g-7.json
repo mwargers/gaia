@@ -23,12 +23,12 @@
     "gmail": {
       "name": "FxOS Import",
       "email": "fxos.email.import@gmail.com",
-      "password": "mozwebqa"
+      "password": "testFirefoxOS"
     },
     "IMAP": {
       "name": "FxOS Import",
       "email": "fxos.email.import@gmail.com",
-      "password": "mozwebqa",
+      "password": "testFirefoxOS",
       "imap_hostname": "imap.gmail.com",
       "imap_name": "fxos.email.import",
       "imap_port": "993",
