@@ -12,7 +12,9 @@
   },
   "imei" : "866302010094848",
   "wifi": {
-    "ssid": "ateam"
+    "ssid": "Mozilla Mobile",
+    "keyManagement": "WPA-PSK",
+    "psk": "im987tuszyp4v"
   },
   "settings": {
     "ril.cellbroadcast.disabled": true,
