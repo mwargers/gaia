@@ -1,16 +1,16 @@
 {
   "acknowledged_risks": true,
   "skip_warning": true,
-  "location": "MV",
+  "location": "Haxxor, MV",
   "attached_to": "b2g-4",
-  "mac_address": "00:2c:19:dc:83:ab",
+  "mac_address": "24:0a:11:e2:20:77",
   "remote_phone_number": "+18007072533",
   "carrier":{
-    "phone_number": "+16508237551",
+    "phone_number": "+16509468566",
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : "352273017386340",
+  "imei" : "864332020111813",
   "wifi": {
     "ssid": "Mozilla Mobile",
     "keyManagement": "WPA-PSK",
@@ -20,6 +20,31 @@
     "ril.cellbroadcast.disabled": true,
     "time.timezone": "America/Los_Angeles",
     "time.timezone.user-selected": "America/Los_Angeles"
+  },
+  "email": {
+    "gmail": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "testFirefoxOS"
+    },
+    "IMAP": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "testFirefoxOS",
+      "imap_hostname": "imap.gmail.com",
+      "imap_name": "fxos.email.import",
+      "imap_port": "993",
+      "smtp_hostname": "smtp.gmail.com",
+      "smtp_name": "fxos.email.import",
+      "smtp_port": "465"
+    },
+    "ActiveSync":{
+      "name": "test account mozilla",
+      "email": "mozuser3@allizom.onmicrosoft.com",
+      "password": "Sanpo7902",
+      "active_sync_hostname": "outlook.office365.com",
+      "active_sync_username": "mozuser3@allizom.onmicrosoft.com"
+    }
   },
   "plivo": {
     "auth_id": "MAMJCXYZM4OWQ4NDM5MD",
