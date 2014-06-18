@@ -3,14 +3,14 @@
   "skip_warning": true,
   "location": "MV",
   "attached_to": "b2g-7",
-  "mac_address": "e4:2d:02:2b:44:6f",
+  "mac_address": "24:0a:11:e2:20:36",
   "remote_phone_number": "+18007072533",
   "carrier":{
-    "phone_number": "+16509468553",
+    "phone_number": "+16509655250",
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : "013498000389040",
+  "imei" : "864332020111169",
   "wifi": {
     "ssid": "Mozilla Mobile",
     "keyManagement": "WPA-PSK",
