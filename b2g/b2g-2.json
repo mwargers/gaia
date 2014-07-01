@@ -8,14 +8,15 @@
   "skip_warning": true,
   "location": "MV",
   "attached_to": "b2g-2",
-  "mac_address": "24:0a:11:7e:58:6d",
+  "mac_address": "24:0a:11:e2:21:26",
   "remote_phone_number": "+18007072533",
+  "android_serial": "e477d8ce",
   "carrier":{
     "phone_number": "+16508610881",
     "country": "United States",
     "network": "T-Mobile"
   },
-  "imei" : "864332020050870",
+  "imei" : "864332020113579",
   "wifi": {
     "ssid": "ateam",
     "keyManagement": "WPA-PSK",
