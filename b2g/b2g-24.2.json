@@ -1,0 +1,30 @@
+{
+  "acknowledged_risks": true,
+  "skip_warning": true,
+  "location": "Haxxor, MV",
+  "attached_to": "b2g-24",
+  "mac_address": "24:0a:11:e2:20:f8",
+  "remote_phone_number": "+18007072533",
+  "android_serial": "807fd02e",
+  "carrier":{
+    "phone_number": "+16507139348",
+    "country": "United States",
+    "network": "T-Mobile"
+  },
+  "imei" : "864332020113116",
+  "wifi": {
+    "ssid": "ateam",
+    "keyManagement": "WPA-PSK",
+    "psk": "im987tuszyp4v"
+  },
+  "settings": {
+    "ril.cellbroadcast.disabled": true,
+    "time.timezone": "America/Los_Angeles",
+    "time.timezone.user-selected": "America/Los_Angeles"
+  },
+  "plivo": {
+    "auth_id": "MAMJCXYZM4OWQ4NDM5MD",
+    "auth_token": "M2Y5ZWI2YzkyZTdlOWVkNzg1ZjNkNWI5OTRmNzE4",
+    "phone_number": "14842125265"
+  }
+}
