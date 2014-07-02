@@ -17,6 +17,31 @@
     "keyManagement": "WPA-PSK",
     "psk": "im987tuszyp4v"
   },
+  "email": {
+    "gmail": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "testFirefoxOS"
+    },
+    "IMAP": {
+      "name": "FxOS Import",
+      "email": "fxos.email.import@gmail.com",
+      "password": "testFirefoxOS",
+      "imap_hostname": "imap.gmail.com",
+      "imap_name": "fxos.email.import",
+      "imap_port": "993",
+      "smtp_hostname": "smtp.gmail.com",
+      "smtp_name": "fxos.email.import",
+      "smtp_port": "465"
+    },
+    "ActiveSync":{
+      "name": "test account mozilla",
+      "email": "mozuser18@allizom.onmicrosoft.com",
+      "password": "Xama7772",
+      "active_sync_hostname": "outlook.office365.com",
+      "active_sync_username": "mozuser18@allizom.onmicrosoft.com"
+    }
+  },
   "settings": {
     "ril.cellbroadcast.disabled": true,
     "time.timezone": "America/Los_Angeles",
