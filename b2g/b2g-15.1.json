@@ -5,6 +5,7 @@
   "attached_to": "b2g-15",
   "mac_address": "24:0a:11:e2:1f:54",
   "remote_phone_number": "+18007072533",
+  "android_serial": "814fce53",
   "carrier":{
     "phone_number": "+16508612024",
     "country": "United States",
