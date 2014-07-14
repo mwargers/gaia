@@ -10,7 +10,7 @@
     "country": "United States",
     "network": "T-Mobile"
   },
-  "imei" : "013498000564733",
+  "imei" : ["013498000564733"],
   "wifi": {
     "ssid": "ateam",
     "keyManagement": "WPA-PSK",
