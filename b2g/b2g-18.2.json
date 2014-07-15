@@ -5,13 +5,13 @@
   "attached_to": "b2g-18",
   "mac_address": "24:0a:11:e2:1f:59",
   "remote_phone_number": "+18007072533",
-  "android_serial": "e445da8f",
+  "android_serial": "807fd0db",
   "carrier":{
     "phone_number": "+16509468510",
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : "864332020108967",
+  "imei" : ["864332020108967", "864332020108975"],
   "wifi": {
     "ssid": "ateam",
     "keyManagement": "WPA-PSK",

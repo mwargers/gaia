@@ -11,7 +11,7 @@
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : "864332020005957",
+  "imei" : ["864332020005957","864332020005965"],
   "wifi": {
     "ssid": "ateam",
     "keyManagement": "WPA-PSK",
