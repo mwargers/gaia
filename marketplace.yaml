@@ -6,7 +6,7 @@ default:
 
 api-dev:
     key: mkt:10189072:moz.marketplace@aol.com:0
-    secret: fb1813144a2acb6dc29cec74e21f41452f1c0f663fd5beba86122def7a94407782db2242e7dba2c2fc927c907c86e2f34617e279deffe7fa0cfa3b1a8052b135
+    secret: f2e9ea8b19291f86fbd65e17844545fb0c0b2fb24225ff40ed6c0173400efdff01e4e0a1d7cfea84410d4633fb8006c7f5fa62fe594a8bcdbf2934a766bd7c7f
 
 api-stage:
     key: mkt:10189072:moz.marketplace@aol.com:0
