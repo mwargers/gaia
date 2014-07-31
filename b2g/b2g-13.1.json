@@ -3,14 +3,15 @@
   "skip_warning": true,
   "location": "Haxxor, MV",
   "attached_to": "b2g-13",
-  "mac_address": "24:0a:11:7e:58:bc",
+  "mac_address": "d8:e5:6d:2d:8f:68",
   "remote_phone_number": "+18007072533",
+  "android_serial": "e474da40",
   "carrier":{
     "phone_number": "+16509964591",
     "country": "United States",
     "network": "AT&T"
   },
-  "imei" : ["864332020051654", "864332020051662"],
+  "imei" : ["864332020502078", "864332020502086"],
   "wifi": {
     "ssid": "ateam",
     "keyManagement": "WPA-PSK",
