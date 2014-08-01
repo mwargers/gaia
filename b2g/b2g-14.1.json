@@ -5,11 +5,6 @@
   "attached_to": "b2g-14",
   "mac_address": "24:0a:11:7e:58:e2",
   "remote_phone_number": "+18007072533",
-  "carrier":{
-    "phone_number": "+16509960348",
-    "country": "United States",
-    "network": "AT&T"
-  },
   "imei" : ["864332020052033", "864332020052058"],
   "wifi": {
     "ssid": "ateam",
