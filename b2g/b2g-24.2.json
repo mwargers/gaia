@@ -3,15 +3,15 @@
   "skip_warning": true,
   "location": "Haxxor, MV",
   "attached_to": "b2g-24",
-  "mac_address": "24:0a:11:e2:20:f8",
+  "mac_address": "d8:e5:6d:2d:8e:ec",
   "remote_phone_number": "+18007072533",
-  "android_serial": "807fd02e",
+  "android_serial": "e474dac5",
   "carrier":{
     "phone_number": "+16507139348",
     "country": "United States",
     "network": "T-Mobile"
   },
-  "imei" : ["864332020113116", "864332020113124"],
+  "imei" : ["864332020112936", "864332020112944"],
   "wifi": {
     "ssid": "ateam",
     "keyManagement": "WPA-PSK",
