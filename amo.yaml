@@ -6,7 +6,7 @@ default:
 user.edit:
     email: webqabrowserid@gmail.com
     password: Password12345
-    name: WebqaTest
+    name: WebqaAccount
     gmail: webqa123
 
 paypal:
