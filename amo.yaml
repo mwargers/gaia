@@ -1,7 +1,7 @@
 default:
     email: amo.testing@gmail.com
     password: mozwebqa
-    name: amo.testing
+    name: amo.account
 
 user.edit:
     email: webqabrowserid@gmail.com
