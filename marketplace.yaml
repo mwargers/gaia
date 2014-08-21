@@ -10,7 +10,7 @@ api-dev:
 
 api-stage:
     key: mkt:10189072:moz.marketplace@aol.com:0
-    secret: 5ba8414709e68a6b5280a8fae6fd38795975468768ec5b00b8688e1377798fb9afd6f421341ef9d70a7d60135b00f63dca80f75ddcda2e81dd900f5353ddffd9
+    secret: f5ffaeeccaf53356f59d1e3dd17745909ba72c9da2fe0d6caff141e05e7cd44652750bf6ae9c2045e2277ebbd32006ba41c742b8d8430eed5c16a775ef63fd15
 
 buy_preapproval:
     email: marketplace.buy.preapproval@gmail.com
