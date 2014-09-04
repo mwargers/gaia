@@ -1,0 +1,54 @@
+{
+  "acknowledged_risks":true,
+  "skip_warning":true,
+  "remote_phone_number":"+18007072533",
+  "carrier":{
+    "phone_number":"+16507139348",
+    "country":"United States",
+    "network":"T-Mobile"
+  },
+  "imei":[
+    "864332020112936",
+    "864332020112944"
+  ],
+  "wifi":{
+    "ssid":"ateam",
+    "keyManagement":"WPA-PSK",
+    "psk":"im987tuszyp4v"
+  },
+  "email":{
+    "gmail":{
+      "name":"FxOS Import",
+      "email":"fxos.email.import@gmail.com",
+      "password":"testFirefoxOS"
+    },
+    "IMAP":{
+      "name":"FxOS Import",
+      "email":"fxos.email.import@gmail.com",
+      "password":"testFirefoxOS",
+      "imap_hostname":"imap.gmail.com",
+      "imap_name":"fxos.email.import",
+      "imap_port":"993",
+      "smtp_hostname":"smtp.gmail.com",
+      "smtp_name":"fxos.email.import",
+      "smtp_port":"465"
+    },
+    "ActiveSync":{
+      "name":"test account mozilla",
+      "email":"mozuser19@allizom.onmicrosoft.com",
+      "password":"Duku8605",
+      "active_sync_hostname":"outlook.office365.com",
+      "active_sync_username":"mozuser19@allizom.onmicrosoft.com"
+    }
+  },
+  "settings":{
+    "ril.cellbroadcast.disabled":true,
+    "time.timezone":"America/Los_Angeles",
+    "time.timezone.user-selected":"America/Los_Angeles"
+  },
+  "plivo":{
+    "auth_id":"MAMJCXYZM4OWQ4NDM5MD",
+    "auth_token":"M2Y5ZWI2YzkyZTdlOWVkNzg1ZjNkNWI5OTRmNzE4",
+    "phone_number":"14842125265"
+  }
+}
