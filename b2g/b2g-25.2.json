@@ -3,15 +3,15 @@
     "skip_warning": true,
     "location": "Haxxor, MV",
     "attached_to": "b2g-25",
-    "mac_address": "d8:e5:6d:1c:00:56",
+    "mac_address": "d8:e5:6d:1c:00:32",
     "remote_phone_number": "+18007072533",
-    "android_serial": "e472d804",
+    "android_serial": "e47cd89b",
     "carrier": {
-        "phone_number": "+16505268569",
+        "phone_number": "+16509964591",
         "country": "United States",
         "network": "AT&T"
     },
-    "imei": ["264332020156172", "264332020156180"],
+    "imei": ["864332020155810", "864332020155828"],
     "wifi": {
         "ssid": "ateam",
         "keyManagement": "WPA-PSK",
@@ -36,10 +36,10 @@
         },
         "ActiveSync": {
             "name": "test account mozilla",
-            "email": "mozuser19@allizom.onmicrosoft.com",
-            "password": "Duku8605",
+            "email": "mozuser12@allizom.onmicrosoft.com",
+            "password": "Nobo6348",
             "active_sync_hostname": "outlook.office365.com",
-            "active_sync_username": "mozuser19@allizom.onmicrosoft.com"
+            "active_sync_username": "mozuser12@allizom.onmicrosoft.com"
         }
     },
     "settings": {
