@@ -22,6 +22,10 @@
     "time.timezone": "America/Los_Angeles",
     "time.timezone.user-selected": "America/Los_Angeles"
   },
+  "marketplace": {
+    "username": "moz.marketplace@aol.com",
+    "password": "mozwebqa"
+  },
   "email": {
     "gmail": {
       "name": "FxOS Import",

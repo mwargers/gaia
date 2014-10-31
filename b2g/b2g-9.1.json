@@ -16,6 +16,10 @@
     "country": "United States",
     "network": "AT&T"
   },
+  "marketplace": {
+    "username": "moz.marketplace@aol.com",
+    "password": "mozwebqa"
+  },
   "imei" : ["864332020113090", "864332020113108"],
   "wifi": {
     "ssid": "ateam",
