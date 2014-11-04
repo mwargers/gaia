@@ -17,6 +17,10 @@
     "keyManagement": "WPA-PSK",
     "psk": "im987tuszyp4v"
   },
+  "marketplace": {
+    "username": "moz.marketplace@aol.com",
+    "password": "mozwebqa"
+  },
   "email": {
     "gmail": {
       "name": "FxOS Import",
