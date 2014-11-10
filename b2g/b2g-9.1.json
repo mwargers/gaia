@@ -16,6 +16,7 @@
     "country": "United States",
     "network": "AT&T"
   },
+  "local_phone_numbers": ["+16509468539"],
   "marketplace": {
     "username": "moz.marketplace@aol.com",
     "password": "mozwebqa"
