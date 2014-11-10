@@ -5,11 +5,6 @@
   "attached_to": "b2g-1",
   "mac_address": "24:0a:11:e2:20:ea",
   "remote_phone_number": "+18007072533",
-  "carrier":{
-    "phone_number": "+16502820975",
-    "country": "United States",
-    "network": "AT&T"
-  },
   "local_phone_numbers": ["+16502820975"],
   "imei" : ["864332020112977", "864332020112985"],
   "wifi": {

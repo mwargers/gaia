@@ -6,11 +6,6 @@
   "mac_address": "24:0a:11:e2:20:f0",
   "remote_phone_number": "+18007072533",
   "android_serial": "e472d81c",
-  "carrier":{
-    "phone_number": "+16507139425",
-    "country": "United States",
-    "network": "T-Mobile"
-  },
   "local_phone_numbers": ["+16507139425"],
   "imei" : ["864332020113033", "864332020113041"],
   "wifi": {

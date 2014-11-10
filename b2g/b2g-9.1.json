@@ -11,11 +11,6 @@
   "mac_address": "24:0a:11:e2:20:f6",
   "remote_phone_number": "+18007072533",
   "android_serial": "8677d087",
-  "carrier":{
-    "phone_number": "+16509468539",
-    "country": "United States",
-    "network": "AT&T"
-  },
   "local_phone_numbers": ["+16509468539"],
   "marketplace": {
     "username": "moz.marketplace@aol.com",
