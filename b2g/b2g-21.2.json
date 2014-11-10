@@ -11,6 +11,7 @@
     "country": "United States",
     "network": "AT&T"
   },
+  "local_phone_numbers": ["+16509655943"],
   "imei" : ["864332020005957","864332020005965"],
   "wifi": {
     "ssid": "ateam",

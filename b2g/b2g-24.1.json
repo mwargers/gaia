@@ -11,6 +11,7 @@
     "country": "United States",
     "network": "T-Mobile"
   },
+  "local_phone_numbers": ["+16507131169"],
   "imei" : ["864332020007920", "864332020007938"],
   "wifi": {
     "ssid": "ateam",
