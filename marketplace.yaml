@@ -1,8 +1,8 @@
 default:
-    email: moz.marketplace@aol.com
+    email: mozilla.mp@gmail.com
     password: mozwebqa
     aol_pass: mozwebqa
-    name: moz.marketplace
+    name: mozilla.mp
 
 api-dev:
     key: mkt:10189072:moz.marketplace@aol.com:0
