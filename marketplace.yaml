@@ -5,12 +5,12 @@ default:
     name: mozilla.mp
 
 api-dev:
-    key: mkt:10189072:moz.marketplace@aol.com:0
-    secret: f2e9ea8b19291f86fbd65e17844545fb0c0b2fb24225ff40ed6c0173400efdff01e4e0a1d7cfea84410d4633fb8006c7f5fa62fe594a8bcdbf2934a766bd7c7f
+    key: mkt:10881096:mozilla.mp@gmail.com:0
+    secret: 82c16881a4656533e945ad28f58816488997b6fb923e677edaf34bcad88db74a1d1889e7d867dce41b3c18b11f71eb2314b3302e6484b010418b3b3c77ca9d84
 
 api-stage:
-    key: mkt:10189072:moz.marketplace@aol.com:0
-    secret: f5ffaeeccaf53356f59d1e3dd17745909ba72c9da2fe0d6caff141e05e7cd44652750bf6ae9c2045e2277ebbd32006ba41c742b8d8430eed5c16a775ef63fd15
+    key: mkt:10909603:mozilla.mp@gmail.com:0
+    secret: 109c64d92f53b08a4abf82a52c1956b4e2c1cb69b97d61ba5ffb0c768ae2c38838d6d4bdd2061c6f4e680ccbea4fc9c488c1f4faf45806eb34e7d36f8b2e068e
 
 buy_preapproval:
     email: marketplace.buy.preapproval@gmail.com
