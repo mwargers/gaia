@@ -6,11 +6,6 @@
     "mac_address": "d8:e5:6d:1c:00:32",
     "remote_phone_number": "+18007072533",
     "android_serial": "e47cd89b",
-    "carrier": {
-        "phone_number": "+16509964591",
-        "country": "United States",
-        "network": "AT&T"
-    },
     "local_phone_numbers": ["+16509964591"],
     "imei": ["864332020155810", "864332020155828"],
     "wifi": {
