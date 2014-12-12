@@ -1,7 +1,25 @@
 {
+  "acknowledged_risks": true,
+  "skip_warning": true,
   "location": "Haxxor, MV",
   "attached_to": "b2g-13",
   "mac_address": "d8:e5:6d:2d:8f:68",
+  "remote_phone_number": "+18007072533",
   "android_serial": "e474da40",
-  "imei" : ["864332020502078", "864332020502086"]
+  "imei" : ["864332020502078", "864332020502086"],
+  "wifi": {
+    "ssid": "ateam",
+    "keyManagement": "WPA-PSK",
+    "psk": "im987tuszyp4v"
+  },
+  "settings": {
+    "ril.cellbroadcast.disabled": true,
+    "time.timezone": "America/Los_Angeles",
+    "time.timezone.user-selected": "America/Los_Angeles"
+  },
+  "plivo": {
+    "auth_id": "MAMJCXYZM4OWQ4NDM5MD",
+    "auth_token": "M2Y5ZWI2YzkyZTdlOWVkNzg1ZjNkNWI5OTRmNzE4",
+    "phone_number": "14842125265"
+  }
 }
