@@ -42,5 +42,9 @@
     "auth_id": "MAMJCXYZM4OWQ4NDM5MD",
     "auth_token": "M2Y5ZWI2YzkyZTdlOWVkNzg1ZjNkNWI5OTRmNzE4",
     "phone_number": "14842125265"
+  },
+  "facebook": {
+    "username": "gaia_dxnzuri_tests@tfbnw.net",
+    "password": "GaiaUITests"
   }
 }
